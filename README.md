@@ -1,4 +1,4 @@
-# 🧠 Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection (MCRNet)
+# 💊 Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection (MCRNet)
 
 
 ![MCRNet](https://github.com/user-attachments/assets/400b892b-633e-4e41-bf39-25686d4b1179)
