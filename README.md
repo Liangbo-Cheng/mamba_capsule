@@ -17,6 +17,8 @@ To set up your environment and install dependencies, run the following commands:
 conda create -n mcrnet python=3.9
 conda activate mcrnet
 
+```
+
 # Install dependencies
 pip install -r requirements.tx
 
