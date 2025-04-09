@@ -23,11 +23,15 @@ pip install -r requirements.txt
 
 📌 Checkpoints
 ---
-We offer the training weights of our MCRNet model in https://pan.baidu.com/s/16iP-qMWXDoh6XpgNqpPcUQ. [PIN:cs28] 
+We offer the training weights of our MCRNet model in [Baidu]. (https://pan.baidu.com/s/1YLEqlwbjY_Ks6HcMSmq_Cg) [PIN:cs28] 
+
+
+
 
 
 📌 Results
 ---
-The prediction of our MCRNet can be found in https://pan.baidu.com/s/108ykIrkGnKtB-X0HvJt_MA. [PIN:l27b] 
+The prediction of our MCRNet can be found in [Baidu]. (https://pan.baidu.com/s/15wjeefYABaWn5RxiT1QhJg) [PIN:l27b] 
+
 
 
