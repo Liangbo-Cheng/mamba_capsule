@@ -7,7 +7,7 @@ We introduce the Mamba to generate type-level mamba capsules from the pixel-leve
 
 ---
 
-Environmental Setups
+📌 Environmental Setups
 ---
 
 To set up your environment and install dependencies, run the following commands:
@@ -21,12 +21,12 @@ pip install -r requirements.txt
 ```
 
 
-Checkpoints
+📌 Checkpoints
 ---
 We offer the training weights of our MCRNet model in https://pan.baidu.com/s/16iP-qMWXDoh6XpgNqpPcUQ. [PIN:cs28] 
 
 
-Results
+📌 Results
 ---
 The prediction of our MCRNet can be found in https://pan.baidu.com/s/108ykIrkGnKtB-X0HvJt_MA. [PIN:l27b] 
 
