@@ -13,15 +13,12 @@ Environmental Setups
 To set up your environment and install dependencies, run the following commands:
 
 ```bash
-# Create virtual environment (optional)
-conda create -n mcrnet python=3.9
-conda activate mcrnet
-
+# Create virtual environment
+conda create -n mcr python=3.10
+conda activate mcr
+conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+pip install -r requirements.txt
 ```
-
-# Install dependencies
-pip install -r requirements.tx
-
 
 
 Checkpoints
