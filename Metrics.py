@@ -2,8 +2,8 @@ import numpy as np
 import os
 from lib.Network_MCR_PVT import Network
 from test.test_data import test_dataset
-from utilss.dataloader import EvalDataset
-from utilss.evaluator import Eval_thread
+from utils.dataloader import EvalDataset
+from utils.evaluator import Eval_thread
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 
 dataset_path = '/data1/data/test/' 

@@ -6,7 +6,7 @@ import cv2
 
 from lib.Network_MCR_Vmamba_T import Network  
 
-from utilss.data_val import test_dataset
+from utils.data_val import test_dataset
 
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 
