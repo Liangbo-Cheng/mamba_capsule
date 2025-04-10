@@ -17,8 +17,14 @@ To set up your environment and install dependencies, run the following commands:
 conda create -n mcr python=3.10
 conda activate mcr
 conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+cd MCRNet
 pip install -r requirements.txt
 ```
+
+📌 Download Datasets
+---
+
+Download the camouflaged object detection datasets from [Baidu](https://pan.baidu.com/s/1Fzy4z0gzBMGDBcn2hOSDwA), you can put datasets into the folder 'data'. **PIN:** `ss04`
 
 
 📌 Checkpoints
