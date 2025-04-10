@@ -20,10 +20,10 @@ cd MCRNet
 pip install -r requirements.txt
 ```
 
-📌 Download Datasets
+📌 Data Preparation
 ---
 
-Download the camouflaged object detection datasets from [Baidu](https://pan.baidu.com/s/1Fzy4z0gzBMGDBcn2hOSDwA), you can put datasets into the folder 'data'. **PIN:** `ss04`
+Download the camouflaged object detection datasets from [Baidu](https://pan.baidu.com/s/1Fzy4z0gzBMGDBcn2hOSDwA), you can put datasets into the folder ```bash ./data/'. ``` **PIN:** `ss04`
 
 
 📌 Checkpoints
