@@ -23,12 +23,12 @@ pip install -r requirements.txt
 📌 Data Preparation
 ---
 
-Download the camouflaged object detection datasets from [Baidu](https://pan.baidu.com/s/1Fzy4z0gzBMGDBcn2hOSDwA), you can put datasets into the folder ```bash ./data/'. ``` **PIN:** `ss04`
+Download the camouflaged object detection datasets from [Baidu](https://pan.baidu.com/s/1Fzy4z0gzBMGDBcn2hOSDwA), you can put datasets into the folder ```./data/' ```. **PIN:** `ss04`
 
 
 📌 Checkpoints
 ---
-We offer the training weights of our MCRNet model on [Baidu](https://pan.baidu.com/s/1YLEqlwbjY_Ks6HcMSmq_Cg). **PIN:** `cs28`
+We offer the training weights of our MCRNet model on [Baidu](https://pan.baidu.com/s/1YLEqlwbjY_Ks6HcMSmq_Cg), which should be put into ```./checkpoint/' ```. **PIN:** `cs28`
 
 
 📌 Results
